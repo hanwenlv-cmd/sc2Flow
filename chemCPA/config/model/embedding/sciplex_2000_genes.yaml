@@ -1,0 +1,2 @@
+datapath: /home/usr/sc2Flow_lab/chemCPA/embedding_data/sciplex3_rdkit_emb_skip.parquet
+model: rdkit

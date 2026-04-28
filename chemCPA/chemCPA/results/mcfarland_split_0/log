@@ -1,0 +1,8 @@
+test_r_squared_mean :  [tensor(0.7780)]
+test_e_distance_mean :  [tensor(5.4086)]
+test_mmd_mean :  [tensor(0.4354, dtype=torch.float64)]
+
+test_r_squared_mean :  [tensor(0.7303)]
+test_e_distance_mean :  [tensor(2.4322)]
+test_mmd_mean :  [tensor(0.5066, dtype=torch.float64)]
+save to  ./results/mcfarland_split_0/
