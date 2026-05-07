@@ -8,7 +8,7 @@
 ## Datasets Download
 All data can be downloaded using pertpy.
 ```python
-pertpy.data.srivatsan_2020_sciplex3()
+pertpy.data.sciplex3_raw()
 pertpy.data.zhao_2021()
 pertpy.data.mcfarland_2020()
 ```
