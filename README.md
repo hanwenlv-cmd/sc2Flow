@@ -3,7 +3,7 @@
 *Note: This is first demo version. In the future we will optimize this project.*
 
 
-![model](./asssts/model.png)
+![model](./assets/model.png)
 
 ## Datasets Download
 All data can be downloaded using pertpy.
